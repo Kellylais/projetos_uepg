@@ -1,0 +1,345 @@
+ -===== Début test automatique =====- 
+Operateurs : C:\philippe\eclipse\workspace\plplan\plplan\\BlockWorld8c.txt
+Nb de fois : 8
+Nb de problèmes : 1
+Génération aléatoire activée
+Complexité : 7
+PROBLEME # 0
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [td, te, nd, th, na, ofe, ng, obf, oab, tg, nc, nh, tc]
+Algo : Graphplan (arrière)
+--> Temps moyen : 7.5 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 8419.875 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 3607.625 ms
+--> Taille moyennne : 14.25
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 2943.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 709.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 11221.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 1265.625 ms
+--> Taille moyennne : 12.25
+Algo : Avant - Algo 1 - sleep set
+--> Out of memory
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 62348.5 ms
+--> Taille moyennne : 7.125
+PROBLEME # 1
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [td, nb, nf, och, th, oed, ofe, na, tg, oac, obg]
+Algo : Graphplan (arrière)
+--> Temps moyen : 120008.875 ms
+--> Taille moyennne : 0.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 12974.875 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 274.25 ms
+--> Taille moyennne : 8.75
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 2822.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 640.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 10896.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 754.75 ms
+--> Taille moyennne : 9.75
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 3243.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 650.875 ms
+--> Taille moyennne : 7.0
+PROBLEME # 2
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [td, nf, och, th, oed, ofe, tb, ng, oab, nc, oga]
+Algo : Graphplan (arrière)
+--> Temps moyen : 115.25 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 6779.625 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 269.375 ms
+--> Taille moyennne : 8.75
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 2212.0 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 389.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 9084.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 1339.625 ms
+--> Taille moyennne : 12.0
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 2715.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 478.125 ms
+--> Taille moyennne : 7.0
+PROBLEME # 3
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [nb, te, och, th, ode, na, ofd, tg, nc, oag, obf]
+Algo : Graphplan (arrière)
+--> Temps moyen : 120007.375 ms
+--> Taille moyennne : 0.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 9011.625 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 2979.125 ms
+--> Taille moyennne : 12.75
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 3294.625 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 978.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 11412.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 1061.375 ms
+--> Taille moyennne : 9.0
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 3548.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 18386.5 ms
+--> Taille moyennne : 6.625
+PROBLEME # 4
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [nb, ogc, nf, och, th, tf, te, na, obe, odg, oad]
+Algo : Graphplan (arrière)
+--> Temps moyen : 30.0 ms
+--> Taille moyennne : 9.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 141.25 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 78.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 106.25 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 61.375 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 178.75 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 1223.125 ms
+--> Taille moyennne : 10.25
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 120.25 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 61.375 ms
+--> Taille moyennne : 5.0
+PROBLEME # 5
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [ne, och, th, tf, na, odf, obd, oeb, ng, tg, oac]
+Algo : Graphplan (arrière)
+--> Temps moyen : 6.25 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 11174.875 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 2414.75 ms
+--> Taille moyennne : 13.25
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 3380.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 1032.875 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 12117.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 631.0 ms
+--> Taille moyennne : 10.75
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 3751.625 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 1105.375 ms
+--> Taille moyennne : 7.0
+PROBLEME # 6
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [te, och, th, ofe, na, odf, obd, ng, ta, nc, ogb]
+Algo : Graphplan (arrière)
+--> Temps moyen : 6.25 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 8457.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 156.5 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 2989.25 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 744.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 11201.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 997.5 ms
+--> Taille moyennne : 8.5
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 3455.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 857.375 ms
+--> Taille moyennne : 7.0
+PROBLEME # 7
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [ogc, te, nd, och, th, na, obe, nb, ta, ofg, odf]
+Algo : Graphplan (arrière)
+--> Temps moyen : 2383.375 ms
+--> Taille moyennne : 9.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 140.125 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 80.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 123.875 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 73.875 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 185.125 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 207.75 ms
+--> Taille moyennne : 9.75
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 141.25 ms
+--> Taille moyennne : 5.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 75.125 ms
+--> Taille moyennne : 5.0
+PROBLEME # 8
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [td, nf, och, th, tb, na, ng, oed, oab, oge, ofc]
+Algo : Graphplan (arrière)
+--> Temps moyen : 18.75 ms
+--> Taille moyennne : 9.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 6682.125 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 234.125 ms
+--> Taille moyennne : 8.75
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 2160.625 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 364.25 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 9197.0 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 1318.25 ms
+--> Taille moyennne : 10.75
+Algo : Avant - Algo 1 - sleep set
+--> Temps moyen : 2769.0 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 2816.375 ms
+--> Taille moyennne : 9.75
+PROBLEME # 9
+--------------
+État Init : {td=td, nb=nb, ogc=ogc, ne=ne, oag=oag, te=te, nd=nd, nf=nf, och=och, th=th, tf=tf, oba=oba}
+But : [td, nb, ne, ofd, oef, tb, ng, ta, tg, nc, nh, tc, oha]
+Algo : Graphplan (arrière)
+--> Temps moyen : 4078.5 ms
+--> Taille moyennne : 11.0
+Algo : Avant - Algo 0 
+--> Temps moyen : 2414.75 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - state matching
+--> Temps moyen : 92.625 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set
+--> Temps moyen : 752.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Temps moyen : 146.5 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 
+--> Temps moyen : 2110.375 ms
+--> Taille moyennne : 7.0
+Algo : Avant - Algo 1 - state matching
+--> Temps moyen : 1338.5 ms
+--> Taille moyennne : 11.25
+Algo : Avant - Algo 1 - sleep set
+--> Out of memory
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Temps moyen : 1186.625 ms
+--> Taille moyennne : 7.0
+RÉSULTATS FINAUX
+--------------
+Algo : Graphplan (arrière)
+--> Moyenne : 24666.2125 ms
+--> Écart-Type : 47688.582542727476 ms
+Algo : Avant - Algo 0 
+--> Moyenne : 6619.625 ms
+--> Écart-Type : 4184.999621789111 ms
+Algo : Avant - Algo 0 - state matching
+--> Moyenne : 1018.725 ms
+--> Écart-Type : 1326.3272182987123 ms
+Algo : Avant - Algo 0 - sleep set
+--> Moyenne : 2078.5 ms
+--> Écart-Type : 1216.4555440397319 ms
+Algo : Avant - Algo 0 - sleep set - state matching
+--> Moyenne : 514.1875 ms
+--> Écart-Type : 341.22570998717254 ms
+Algo : Avant - Algo 1 
+--> Moyenne : 7760.5 ms
+--> Écart-Type : 4653.839697295664 ms
+Algo : Avant - Algo 1 - state matching
+--> Moyenne : 1013.75 ms
+--> Écart-Type : 357.40775033566354 ms
+Algo : Avant - Algo 1 - sleep set
+--> Moyenne : 1974.45 ms
+--> Écart-Type : 5514.93372058994 ms
+Algo : Avant - Algo 1 - sleep set - state matching
+--> Moyenne : 8796.625 ms
+--> Écart-Type : 18610.6189199708 ms
+ -=====================- 
+FIN
